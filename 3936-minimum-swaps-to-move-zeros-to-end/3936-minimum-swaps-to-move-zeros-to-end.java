@@ -7,17 +7,17 @@ class Solution {
         int count =0;
         while( left <= right)
         {
-            if ( ( nums[left] == 0 ) & (nums[ right ] != 0 ))
+            if ( ( nums[left] == 0 ) && (nums[ right ] != 0 ))
             {
                 count ++;
                 right --;
                 left ++;
             }
-            else if (( nums[left]!= 0) & (nums[ right ] != 0))
+            else if (( nums[left]!= 0) && (nums[ right ] != 0))
             {
                 left++;
             }
-            else if ((nums [left]==0) & (nums[right]==0))
+            else if ((nums [left]==0) && (nums[right]==0))
             {
                 right--;
             }
