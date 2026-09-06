@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anubhavgautam0/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/anubhavgautam0/LEETCODE/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anubhavgautam0/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anubhavgautam0/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anubhavgautam0/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
