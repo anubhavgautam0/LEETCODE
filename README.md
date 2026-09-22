@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anubhavgautam0/LEETCODE/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anubhavgautam0/LEETCODE/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anubhavgautam0/LEETCODE/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
