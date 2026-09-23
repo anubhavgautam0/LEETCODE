@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anubhavgautam0/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/anubhavgautam0/LEETCODE/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/anubhavgautam0/LEETCODE/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anubhavgautam0/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0344-reverse-string](https://github.com/anubhavgautam0/LEETCODE/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
