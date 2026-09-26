@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anubhavgautam0/LEETCODE/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/anubhavgautam0/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/anubhavgautam0/LEETCODE/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anubhavgautam0/LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/anubhavgautam0/LEETCODE/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anubhavgautam0/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
