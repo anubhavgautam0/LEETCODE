@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anubhavgautam0/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anubhavgautam0/LEETCODE/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/anubhavgautam0/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0728-self-dividing-numbers) |
 ## String
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/anubhavgautam0/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
