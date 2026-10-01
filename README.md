@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anubhavgautam0/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
 ## Two Pointers
 |  |
 | ------- |
