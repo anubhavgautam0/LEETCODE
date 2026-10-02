@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anubhavgautam0/LEETCODE/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/anubhavgautam0/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/anubhavgautam0/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
