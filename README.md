@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anubhavgautam0/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anubhavgautam0/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/anubhavgautam0/LEETCODE/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
