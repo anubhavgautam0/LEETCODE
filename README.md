@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anubhavgautam0/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/2396-strictly-palindromic-number) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
