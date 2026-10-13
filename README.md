@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anubhavgautam0/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/1323-maximum-69-number) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
