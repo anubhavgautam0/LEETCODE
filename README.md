@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/anubhavgautam0/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/anubhavgautam0/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/anubhavgautam0/LEETCODE/tree/master/0506-relative-ranks) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
