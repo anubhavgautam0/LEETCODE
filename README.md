@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/anubhavgautam0/LEETCODE/tree/master/0506-relative-ranks) |
 | [0908-smallest-range-i](https://github.com/anubhavgautam0/LEETCODE/tree/master/0908-smallest-range-i) |
+| [1089-duplicate-zeros](https://github.com/anubhavgautam0/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/anubhavgautam0/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anubhavgautam0/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/anubhavgautam0/LEETCODE/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/anubhavgautam0/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1089-duplicate-zeros](https://github.com/anubhavgautam0/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
