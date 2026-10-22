@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/anubhavgautam0/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anubhavgautam0/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anubhavgautam0/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/anubhavgautam0/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavgautam0/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anubhavgautam0/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
